@@ -1,4 +1,4 @@
-# MK's Paid Tata Play Bot
+# NK's Paid Tata Play Bot
 
 • Auto Fetch Channel Keys
 
@@ -20,7 +20,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 git clone https://github.com/MAHESH-KADALI/tplayys MAHESH
 ```
 ```
-cd MAHESH
+cd NITESH
 ```
 ```
 sudo docker build . -t tata
