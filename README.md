@@ -17,7 +17,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 ```
 # Vps Commands
 ```
-git clone https://github.com/MAHESH-KADALI/tplayys MAHESH
+git clone https://github.com/Niteshowner/tplayys NITESH
 ```
 ```
 cd NITESH
