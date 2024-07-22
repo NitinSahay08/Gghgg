@@ -9,15 +9,15 @@ dirName = os.path.basename(dirPath)
 
 
 class TG_CONFIG:
-    api_id = 4857766
+    api_id = 17906941
 
-    api_hash = "6c3c6facf5598a4b318e138f8c407028"
+    api_hash = "02f7356fe1607e5fde0512195b4d7be5"
 
-    bot_token = "6678659572:AAEOfiHrQFpulD4Gx6m3bBhDKn14TeU0F1s"
+    bot_token = "7345939002:AAE55VooBDie-f5SEpkwC13dsASl4qCOTOA"
 
     #DEVS or #OWNERS
     sudo_users = [1596559467, 7172796863, 6274275394, 1195351595, -1002233833025, -1002205027579, 5518437348, 1996570767, 6651534688, 7011929837]
-    session = "Edodrivebot"
+    session = "Doraemon_Ripping_Bot"
 
     bot_creater = "SNEHITHA"  # Don't Remove if you Respect the DEV
 
@@ -82,12 +82,12 @@ class FILENAME_CONFIG:
     language_order = ['hi', 'ta', 'te', 'bn', 'gu', 'pa', 'as', 'or',
                     'ml', 'mr', 'kn', 'th', 'ja', 'th', 'id', 'ms', 'ko', 'bho', 'bh', 'en']
 
-    default_group_tag = "SNEHITHA" # Don't change it if you Respect the DEV
+    default_group_tag = "NITESH" # Don't change it if you Respect the DEV
 
     #Dict made to add Group Tag according to the user requesting to DL (according to there TG ID) if not in list then takes the default_group_tag
     group_tag_mapping = {
-        '7172796863': 'SNEHITHA',
-        '1596559467': 'SNEHITHA'
+        '7172796863': 'NITESH',
+        '1596559467': 'NITESH'
     }
 
 
